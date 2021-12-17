@@ -1,0 +1,77 @@
+<!DOCTYPE>
+
+
+
+<html>
+
+
+
+<head>
+<title> Log in </title>
+<link href="regProg.css" rel="stylesheet" type="text/css">
+</head>
+
+
+
+<body>
+<img src="picrg.png" align="right" width="530" height="760"/>
+<h1> Registration Form</h1>
+
+
+
+<p style="color:red;"> *Denotes Required Field </p>
+
+
+
+<form id="Lab3" name="Lab3" action="Lab3.sj" method="post">
+
+
+
+<fieldset id="personal">
+<legend width="20" height="10"> <h3> Personal Information </h3> </legend>
+<label for="Fname"> Name*: <br/> <br/>
+<input id="Fname" name="Fname" type="text" required="required" placeholder="Full Name" /> </label> <br/> <br/>
+
+
+
+<label for="UEmail"> Email*: <br/> <br/>
+<input id="UEmail" name="UEmail" type="Email" required="required" placeholder="name@Domain.com" /> </label> <br/> <br/>
+
+
+
+<label for="UPass"> Password*: <br/> <br/>
+<input id="UPass" name="UPass" type="password" required="required" value="" /> </label> <br/> <br/>
+
+
+
+<label for="VUPass"> Verify Password*: <br/> <br/>
+<input id="VUPass" name="VUPass" type="password" required="required" /> </label> <br/> <br/>
+</fieldset>
+<fieldset id="personal">
+<legend> <h3> Personal Info</h3> </legend>
+<label> Gender: </label> <br/> <br/>
+<label> <input id="UGender" name="Gender:" type="radio" value="Male"/> Male </label>
+<label> <input id="UGender" name="Gender:" type="radio" value="Famale"/> Famale </label>
+<br/><br/>
+
+<label> Age: <input id="UAge" name="UAge" type="number" min="18" max="25" /> </label> <br/><br/>
+
+</fieldset>
+<br/><br/>
+
+
+
+<input id="submittButton" name="submittButton" type="submit" " value="Register" />
+<input id="resetButton" name="resetButton" type="reset" " value="Clear" />
+
+
+
+</form>
+
+
+
+</body>
+
+
+
+</html>

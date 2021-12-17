@@ -1,0 +1,9 @@
+body{
+background-image:url(back.png);
+}
+figcaption,td,h5,th{
+	
+	font-family:"Georgia";
+	color: #696969;
+}
+

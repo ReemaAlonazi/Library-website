@@ -1,0 +1,26 @@
+h1{
+border:2px solid lightBlue;
+font-family:"Georgia";
+color:#696969;
+
+}
+h2,label{
+	#696969
+	font-family:"Georgia";
+	font-size:20px;
+	color:#696969;
+}
+#s{
+	border:2px solid lightBlue;
+	width:100px;
+	height:34px;
+}
+textarea{
+border:2px solid lightBlue;
+	color:#696969;
+}
+input,select{
+	border:2px solid lightBlue;
+	width:260px;
+height:34px;
+}

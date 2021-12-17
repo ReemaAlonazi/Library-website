@@ -1,0 +1,25 @@
+.a{
+	font-family:"Georgia";
+	color: #696969;
+
+}
+p:first-letter
+   {
+   font-size: 30px;
+   color:lightBlue;
+   }
+
+body{
+	background-image:url(y.PNG);
+background-size: 100% 100%;
+}	
+#submittBu{
+	 background-color: white;
+	width: 75px;
+	height: 40px;
+	border: 2px solid lightBlue;
+	
+}
+#submittBu:hover {
+  background-color: lightBlue;
+  color: white;

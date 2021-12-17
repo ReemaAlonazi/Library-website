@@ -1,0 +1,32 @@
+video{
+	width:1000px;
+	height:300px;
+	
+}
+body{
+	background-image:url(black.PNG);
+	background-repeat:repeat-x;
+	 background-size: 300px 390px
+	 
+	  
+}
+h2{
+
+	width:50px;
+	height:30;
+	font-family:"Georgia";
+	color: #696969;
+	 padding:46px;
+	
+
+}
+h3{
+	font-family:"Georgia";
+	color: #696969;
+}
+img{
+	
+	padding:5px;
+	border-bottom: 3px solid #696969;
+	margin-left:40px;
+}

@@ -1,0 +1,39 @@
+h1
+{
+text-align: center;
+background-color: lightgrey;
+}
+h3
+{
+border-bottom: 6px solid lightblue;
+background-color: lightgrey;
+font-family: 'Courier New', Courier, monospace;
+}
+.p
+{
+margin:10px;
+padding:3px;
+border:3px lightgrey;
+background-color:lightblue;
+}
+#a:first-letter
+{
+color: gray;
+font-size:30px;
+}
+
+
+
+.z
+{
+background-color: lightblue;
+width:450px;
+}
+
+
+
+.v
+{
+background-color: lightgrey;
+width:450px;
+}
